@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 npm-debug.log
 *.scssc
 .sass-cache/*
@@ -32,3 +33,7 @@ scratch
 mup.json
 
 packages_update.py
+=======
+.meteor/local
+.meteor/meteorite
+>>>>>>> c1f53b975c27e90f2ccac129fdb9704746db9912
